@@ -25,7 +25,7 @@ Frontend developer from Venezuela with 1+ years of experience building real-worl
 
 ### Backend
 <p>
-  ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120)
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=2391202"/>
   <img src="https://img.shields.io/badge/.NET_10-000?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-000?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/OpenAPI-000?style=for-the-badge&logo=openapi&logoColor=6BA539"/>
