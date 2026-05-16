@@ -22,6 +22,13 @@ Frontend developer from Venezuela with 1+ years of experience building real-worl
   <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite"/>
 </p>
 
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Maui.NET-000?style=for-the-badge&logo=maui.net"/>
+  <img src="https://img.shields.io/badge/C#-000?style=for-the-badge&logo=c#&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Asp.NET-000?style=for-the-badge&logo=aspnet"/>
+</p>
+
 ### Design
 <p>
   <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma"/>
