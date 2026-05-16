@@ -20,13 +20,15 @@ Frontend developer from Venezuela with 1+ years of experience building real-worl
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss"/>
   <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Maui.NET-000?style=for-the-badge&logo=maui.net"/>
-  <img src="https://img.shields.io/badge/C#-000?style=for-the-badge&logo=c#&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Asp.NET-000?style=for-the-badge&logo=aspnet"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi&logoColor=white"/>
 </p>
 
 ### Design
